@@ -6,7 +6,9 @@ And hacked a little bit more (also to make it work after breaking changes) and t
 What to do:
 
 npm install
+
 node server.js
+
 head to localhost:8888
 
 Enjoy!
